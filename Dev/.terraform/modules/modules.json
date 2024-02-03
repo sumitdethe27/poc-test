@@ -1,0 +1,1 @@
+{"Modules":[{"Key":"","Source":"","Dir":"."},{"Key":"dev-application-cloud-run","Source":"git::https://github.com/sumitdethe27/poc-test//terraform-cloud-run?ref=master","Dir":".terraform/modules/dev-application-cloud-run/terraform-cloud-run"}]}
