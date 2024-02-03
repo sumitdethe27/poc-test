@@ -1,5 +1,5 @@
 module "dev-application-cloud-run" {
-  source = "git::https://github.com/sumitdethe27/poc-test//terraform-google-cloud-run?ref=master"
+  source = "git::https://github.com/sumitdethe27/poc-test//terraform-cloud-run?ref=master"
   
   # insert the 4 required variables here
   service_name           = var.Application_name
